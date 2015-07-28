@@ -1,0 +1,1 @@
+La détection du l’état du bouton bloque le « Logger ». 
